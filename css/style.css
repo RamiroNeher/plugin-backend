@@ -1,0 +1,7 @@
+#adminmenu,
+#adminmenu .wp-submenu,
+#adminmenuback,
+#adminmenuwrap {
+    width: 160px;
+    background-color: #003366;
+}
